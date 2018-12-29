@@ -9,7 +9,6 @@ const Stats = () => {
   // }, 0);
 
   return (
-    //TODO: Learn more about consumers !!!
     <Consumer>
         {context => {
           const totalPlayers = context.players.length;
