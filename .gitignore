@@ -2,7 +2,7 @@
 #more about ignoring files.
 
 #package lock
-/package_lock.json
+/package-lock.json
 
 # editor folder
 /.vscode
